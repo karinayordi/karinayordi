@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Microsoft Azure Subscription](https://github.com/karinayordi/azure-subscription)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [How to create a Resource Group](https://github.com/karinayordi/ResourceG-VM)
 
 <h2>🤳Connect with me:</h2>
 
