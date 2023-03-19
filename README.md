@@ -7,7 +7,9 @@
   - [How to create a Resource Group](https://github.com/karinayordi/ResourceG-VM)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-- 
+  - [osTicket: Prerequisites and Installation](https://github.com/karinayordi/osTicket-Inst)
+
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
