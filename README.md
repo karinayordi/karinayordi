@@ -5,6 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Microsoft Azure Subscription](https://github.com/karinayordi/azure-subscription)
   - [How to create a Resource Group](https://github.com/karinayordi/ResourceG-VM)
+  - [How to create a Virtual Machine](https://github.com/karinayordi/Virtual_M) 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/karinayordi/osTicket-Inst)
